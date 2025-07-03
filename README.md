@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rishic2002&label=Profile%20views&color=0e75b6&style=flat" alt="rishic2002" />
-  <img src="https://komarev.com/ghpvc/?username=rishi‑sparkspite&label=Alt%20Account%20views&color=0e75b6&style=flat" alt="rishi‑sparkspite" />
+  
 </p>
 
 - 🔭 Full Stack Developer | AI/ML Enthusiast  
